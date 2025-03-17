@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-autos = pd.read_csv('/Users/IvanSoto/Desktop/Python/Sprint7_Git/App/App_web_S7/vehicles_us.csv')
+autos = pd.read_csv('vehicles_us.csv')
 
 st.header('Información de los anuncios de autos en EEUU')
 
