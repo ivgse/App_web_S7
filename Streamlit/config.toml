@@ -6,4 +6,4 @@ port = 10000
 serverAdress = '0.0.0.0'
 serverPort = 10000
 
-gatherUsageStats = false
+rowser.gatherUsageStats = false
